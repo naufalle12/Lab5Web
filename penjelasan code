@@ -1,0 +1,30 @@
+#penjelasan setiap kode
+Document Write dan Console Log: Menampilkan teks "Hello World" di dokumen HTML (document.write()) dan di konsol browser (console.log()).
+
+Alert Box: Menampilkan pesan pop-up menggunakan window.alert() dengan teks yang diberikan.
+
+Pemakaian document.write: Menulis teks langsung ke dokumen HTML menggunakan document.write().
+
+Prompt: Menggunakan prompt() untuk meminta input dari pengguna dan menampilkannya di halaman.
+
+Pembuatan Fungsi dan Pemanggilan: Membuat fungsi pesan() yang memunculkan alert saat halaman dimuat (onload).
+
+Operasi Aritmatika: Menghitung dan menampilkan hasil operasi dasar (kali, bagi, tambah, kurang, modulus) dengan dua nilai yang diberikan sebagai parameter.
+
+Seleksi Kondisi If-Else: Menggunakan if-else untuk menentukan kelulusan berdasarkan nilai input.
+
+Switch Case: Menggunakan switch untuk menampilkan teks yang sesuai dengan nilai input (1–5).
+
+Form Input (Genap/Ganjil): Menggunakan form untuk memeriksa apakah input adalah bilangan genap atau ganjil.
+
+Form Button untuk Mengubah Warna: Mengubah warna latar belakang dan teks dengan tombol.
+
+HTML DOM (Daftar Menu): Menambahkan total harga berdasarkan item menu yang dipilih menggunakan DOM.
+
+Validasi Form Bilangan Genap/Ganjil: Memvalidasi input agar hanya menerima angka bulat, lalu menampilkan apakah angka tersebut genap atau ganjil.
+
+
+
+
+
+
