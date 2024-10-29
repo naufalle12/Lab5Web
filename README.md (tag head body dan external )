@@ -24,3 +24,22 @@ document.write("Hello World.")
 ![Screenshot (244)](https://github.com/user-attachments/assets/6602dacc-06a5-49ff-9c27-8a7d96b4ead7)
 ![Screenshot (245)](https://github.com/user-attachments/assets/4d1fae4c-4f43-4274-89e7-91a7ab4b4944)
 ![Screenshot (246)](https://github.com/user-attachments/assets/0439a898-7ff7-4143-8d47-896b879dbdf9)
+
+## praktikum 5
+code 1
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mengenal JavaScript</title>
+</head>
+<body>
+    <h1>Pengenalan JavaScript</h1>
+    <h3>Contoh document.write dan console.log</h3>
+    <script>
+        document.write("Hello World");
+        console.log("Hello World");
+    </script>
+</body>
+</html>
