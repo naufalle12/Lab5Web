@@ -1,0 +1,26 @@
+# Lab5Web
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script type="text/JavaScript" src="index.js"></script>
+    <script type class="text/JavaScript">
+        alert("Javascript pada tag head.");
+    </script>
+</head>
+<body>
+    <h1>Pengenalan JavaScript</h1>
+    <h3>Contoh document.write</h3>
+    <script>
+        document.write("Hello World");
+    </script>
+</body>
+</html>
+# index.js
+document.write("Hello World.")
+![Screenshot (243)](https://github.com/user-attachments/assets/257df4b3-87c7-4862-8302-95e066127c89)
+![Screenshot (244)](https://github.com/user-attachments/assets/6602dacc-06a5-49ff-9c27-8a7d96b4ead7)
+![Screenshot (245)](https://github.com/user-attachments/assets/4d1fae4c-4f43-4274-89e7-91a7ab4b4944)
+![Screenshot (246)](https://github.com/user-attachments/assets/0439a898-7ff7-4143-8d47-896b879dbdf9)
